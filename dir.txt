@@ -1,0 +1,15 @@
+ Volume in drive D is OS
+ Volume Serial Number is 6032-8FF9
+
+ Directory of D:\kcp assignments\image finder
+
+17/04/2023  09:34 am    <DIR>          .
+17/04/2023  09:34 am    <DIR>          ..
+17/04/2023  09:31 am             5,413 12.jpg
+17/04/2023  09:32 am           421,812 123.jpg
+17/04/2023  09:32 am             5,235 24353.jpg
+17/04/2023  09:32 am             8,838 342.jpg
+17/04/2023  09:30 am             6,164 data.xlsx
+17/04/2023  09:34 am                 0 dir.txt
+               6 File(s)        447,462 bytes
+               2 Dir(s)  156,784,787,456 bytes free
