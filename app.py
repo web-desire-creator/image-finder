@@ -7,12 +7,11 @@ def remove_common(a, b):
     print("list1 : ", a)
     print("list2 : ", b)
 
-dataframe1 = pd.read_excel('data.xlsx',usecols='D')
+dataframe1 = pd.read_excel('Source DG-Setup.xlsx',usecols='C')
 print(dataframe1)
 a=[]
 for i in range(0, len(dataframe1)):
-    # print(dataframe1["Referenes"].values[i])
-    a.append(dataframe1["Referenes"].values[i].split("\\")[3])
+    a.append(dataframe1["FORMULA"].values[i].split("\\")[1])
 
 print(a)
 
